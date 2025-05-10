@@ -1,0 +1,6 @@
+﻿5) Analizar el siguiente programa y explicar con tus palabras qué es lo que realiza.
+
+
+  
+
+Este programa crea una lista llamada “números” con los valores (8,15,22,7),a partir de esto busca el valor máximo de la lista (en este caso el 22) y elimina ese valor,mostrando la lista modificada sin este número eliminado.
